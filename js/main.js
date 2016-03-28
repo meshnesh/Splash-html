@@ -11,6 +11,8 @@ $( document ).ready(function() {
 	});
 });
 
+
+
 $(window).scroll(function() {
   	  $(window).off("scroll");
 	  $(".splash").slideUp("800", function() {
